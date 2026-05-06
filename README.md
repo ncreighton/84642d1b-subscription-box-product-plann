@@ -1,2 +1,30 @@
-# 84642d1b-subscription-box-product-plann
-Notion workspace for subscription box business owners managing product curation, supplier relationships, and shipment operations. Features a product database with cost and sourcing notes, monthly box curation workspace with theme development, supplier quote comparison table, subscriber count tracker with churn alerts, box assembly and packing timel
+# Subscription Box Product Planning Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cIcN56mXgaU2hi1ZicZb0s)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cIcN56mXgaU2hi1ZicZb0s)
+- [Buy on Whop](https://whop.com/subscription-box-product-planning-notion-template)
+
